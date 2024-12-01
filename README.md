@@ -1,12 +1,15 @@
-Name: Saishree Mishra 
+[Name: Saishree Mishra 
+
 Company: CODTECH IT SOLUTIONS 
+
 ID: CT08DS10056 
 
 Domain: Machine Learning 
 
 Duration: November 15 to December 15 2024
 
-Mentor: Neela Santhosh Kumar
+Mentor: Neela Santhosh Kumar]
+
 
 
 
